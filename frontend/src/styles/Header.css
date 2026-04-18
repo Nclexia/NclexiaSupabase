@@ -1,0 +1,26 @@
+.header {
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background-color: color-mix(in srgb, var(--bg) 55%, transparent);
+    @apply sticky top-0 z-50 w-full transition-all;
+  }
+  .isHover {
+    color: var(--text);
+    background-color: var(--bg);
+    border: var(--input-text-border);
+    box-shadow:  var(--muted-text) 0px 12px 20px 50px 0px;
+
+  }
+  .dropDownLink {
+    color: var(--text);
+    text-decoration: none;
+
+  }
+  .dropDownLink:hover {
+   
+    background-color: var(--dropDownHover);
+
+  }
+  

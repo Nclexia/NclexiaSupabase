@@ -1,0 +1,48 @@
+export const subjects = [
+    'Adult Health',
+    'Child Health',
+    'Fundamentals',
+    'Leadership & Management',
+    'Maternal & Newborn Health',
+    'Mental Health',
+    'Pharmacology',
+]
+
+export const systems = [
+    "Agents to Treat Gout",
+    "Analgesics",
+    "Antepartum",
+    "Assignment/Delegation",
+    "Basic Care & Comfort",
+    "Cardiovascular",
+    "Emergency Care",
+    "Endocrine",
+    "Ethical/Legal",
+    "Fluid, Electrolyte, Acid-Base Bal.",
+    "Gastrointestinal/Nutrition",
+    "Growth & Development",
+    "Health Promotion",
+    "Hematological/Oncological",
+    "Immune",
+    "Infectious Disease",
+    "Integumentary",
+    "Labor/Delivery",
+    "Leadership & Management",
+    "Management Concepts",
+    "Medication Administration",
+    "Mental Health Concepts",
+    "Musculoskeletal",
+    "Neurologic",
+    "Newborn",
+    "Postpartum",
+    "Prioritization",
+    "Psychiatric Medications",
+    "Reproductive",
+    "Respiratory",
+    "Safety/Infection Control",
+    "Skills/Procedures",
+    "Urinary/Renal",
+    "Visual/Auditory"
+]
+
+export const types = ['Tradition', 'NGN', 'Mixed'];

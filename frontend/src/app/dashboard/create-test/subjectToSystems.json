@@ -1,0 +1,76 @@
+{
+    "Adult Health": [
+        "Cardiovascular",
+        "Emergency Care",
+        "Endocrine",
+        "Gastrointestinal/Nutrition",
+        "Hematological/Oncological",
+        "Immune",
+        "Infectious Disease",
+        "Integumentary",
+        "Musculoskeletal",
+        "Neurologic",
+        "Reproductive",
+        "Respiratory",
+        "Urinary/Renal",
+        "Visual/Auditory"
+    ],
+    "Child Health": [
+        "Cardiovascular",
+        "Endocrine",
+        "Gastrointestinal/Nutrition",
+        "Growth & Development",
+        "Health Promotion",
+        "Hematological/Oncological",
+        "Immune",
+        "Infectious Disease",
+        "Integumentary",
+        "Musculoskeletal",
+        "Neurologic",
+        "Respiratory",
+        "Urinary/Renal",
+        "Visual/Auditory"
+    ],
+    "Fundamentals": [
+        "Basic Care & Comfort",
+        "Ethical/Legal",
+        "Fluid, Electrolyte, Acid-Base Bal.",
+        "Leadership & Management",
+        "Medication Administration",
+        "Safety/Infection Control",
+        "Skills/Procedures"
+    ],
+    "Leadership & Management": [
+        "Assignment/Delegation",
+        "Ethical/Legal",
+        "Management Concepts",
+        "Prioritization"
+    ],
+    "Maternal & Newborn Health": [
+        "Antepartum",
+        "Infectious Disease",
+        "Labor/Delivery",
+        "Newborn",
+        "Postpartum"
+    ],
+    "Mental Health": [
+        "Mental Health"
+    ],
+    "Pharmacology": [
+        "Analgesics",
+        "Cardiovascular",
+        "Endocrine",
+        "Gastrointestinal/Nutrition",
+        "Hematological/Oncological",
+        "Immune",
+        "Infectious Disease",
+        "Integumentary",
+        "Musculoskeletal",
+        "Neurologic",
+        "Psychiatric Medications",
+        "Reproductive",
+        "Respiratory",
+        "Urinary/Renal",
+        "Visual/Auditory"
+    ]
+}

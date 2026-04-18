@@ -1,0 +1,14 @@
+export const  formatDateTime = (isoString: string): string => {
+    const date = new Date(isoString);
+
+    return `${date.toLocaleDateString('en-GB', {
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric',
+    })} ${date.toLocaleTimeString('en-GB', {
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false,
+    })}`;
+};

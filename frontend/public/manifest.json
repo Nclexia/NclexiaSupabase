@@ -1,0 +1,11 @@
+{
+    "name": "Neclexia.com",
+    "short_name": "Neclexia",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1e40af",
+    "description": " Master the NCLEX exam with personalized practice tests, and interactive lessons designed to boost your nursing career success.",
+    "icons": []
+  }
+  

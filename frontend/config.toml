@@ -1,0 +1,5 @@
+[auth.external.google]
+enabled = true
+client_id = "nclexia7@gmail.com"
+secret = "Nclexia7/"
+skip_nonce_check = false

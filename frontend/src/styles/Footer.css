@@ -1,0 +1,58 @@
+.footer-section {
+    background-color: var(--bg);
+    color: var(--text);
+    border-top: 1px solid var(--border);
+    @apply pt-12 pb-8 transition-colors;
+}
+
+.footer-section a {
+    color: var(--muted-text);
+    @apply transition-colors;
+}
+
+.footer-section a:hover {
+    color: var(--text);
+}
+
+.footer-section .widget-title {
+    font-weight: 600;
+    @apply mb-4 text-base;
+}
+
+.footer-section address,
+.footer-section p {
+    margin-bottom: 0.5rem;
+    color: var(--muted-text);
+    line-height: 1.6;
+}
+
+.footer-section .form-control {
+    background-color: var(--card-bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    @apply rounded-md;
+}
+
+.footer-section .form-control::placeholder {
+    color: var(--muted-text);
+}
+
+.footer-section .btn-primary {
+    background-color: var(--primary);
+    color: var(--button-text);
+    border: none;
+    @apply rounded-md;
+}
+
+.footer-section .btn-primary:hover {
+    background-color: var(--primary-hover);
+}
+
+.footer-section .social-media-wrapper a {
+    color: var(--social-media);
+   
+}
+
+.footer-section .social-media-wrapper a:hover {
+    color: var(--social-media-focus);
+}
